@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    }
+]

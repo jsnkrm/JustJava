@@ -1,0 +1,4 @@
+#Thu Apr 27 18:08:18 IST 2017
+base.0=/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

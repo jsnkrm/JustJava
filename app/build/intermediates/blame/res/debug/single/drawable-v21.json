@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

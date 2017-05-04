@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/jsnkrm/.android/build-cache/0a7cf0b0914ed9e06f8cb32c5c3bf2477a3a5e17/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

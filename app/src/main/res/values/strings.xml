@@ -1,3 +1,12 @@
-<resources>
-    <string name="app_name">My Application</string>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="toppings">Toppings</string>
+    <string name="Whipped">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="order">Order</string>
+    <string name="reset">Reset</string>
+    <string name="name">Name</string>
+
+
 </resources>

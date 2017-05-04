@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/jsnkrm/AndroidStudioProjects/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/jsnkrm/AndroidStudioProjects/JustJava/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
